@@ -8,7 +8,7 @@ Node.js library for making bots on Yo
 `npm install yobot`
 
 
-```
+```js
 'use strict';
 
 var Yobot = require('yobot');
