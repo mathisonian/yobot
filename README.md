@@ -28,6 +28,10 @@ yobot.yo();
 Use it how you will.
 
 
+## Callback URL
+
+This will start a server listing for incoming YO's at `/yo/`, you will to input `yourserver.com/yo/` as the callback URL when registering for your api key
+
 
 ## License
 Copyright (c) 2014 Matthew Conlen. Licensed under the MIT license.
