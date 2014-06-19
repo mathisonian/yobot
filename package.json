@@ -1,6 +1,6 @@
 {
   "name": "yobot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/yobot.js",
   "description": "Node.js API client for the YO app",
   "homepage": "http://github.com/mathisonian/yobot",
