@@ -19,6 +19,9 @@
       "type": "MIT"
     }
   ],
+  "keywords": [
+    "yo", "yobot"
+  ],
   "dependencies": {
     "q": "~1.0.1",
     "lodash": "~2.4.1",
