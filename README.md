@@ -8,7 +8,7 @@ Node.js library for making bots on Yo
 `npm install yobot`
 
 
-```
+```js
 'use strict';
 
 var Yobot = require('yobot');
@@ -27,6 +27,10 @@ yobot.yo();
 
 Use it how you will.
 
+
+## Callback URL
+
+This will start a server listing for incoming YO's at `/yo/`, you will to input `yourserver.com/yo/` as the callback URL when registering for your api key
 
 
 ## License
